@@ -1,0 +1,230 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "username": "admin",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "role": "admin",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "u2",
+      "username": "tester",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Tester User",
+      "email": "tester@example.com",
+      "role": "user",
+      "createdAt": "2024-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "u3",
+      "username": "student01",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Học Viên 01",
+      "email": "student01@test.com",
+      "role": "user",
+      "createdAt": "2024-01-03T00:00:00.000Z"
+    },
+    {
+      "id": "u4",
+      "username": "student02",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Học Viên 02",
+      "email": "student02@test.com",
+      "role": "user",
+      "createdAt": "2024-01-04T00:00:00.000Z"
+    },
+    {
+      "id": "u5",
+      "username": "student03",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Học Viên 03",
+      "email": "student03@test.com",
+      "role": "user",
+      "createdAt": "2024-01-05T00:00:00.000Z"
+    },
+    {
+      "id": "u6",
+      "username": "student04",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Học Viên 04",
+      "email": "student04@test.com",
+      "role": "user",
+      "createdAt": "2024-01-06T00:00:00.000Z"
+    },
+    {
+      "id": "u7",
+      "username": "student05",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Học Viên 05",
+      "email": "student05@test.com",
+      "role": "user",
+      "createdAt": "2024-01-07T00:00:00.000Z"
+    },
+    {
+      "id": "u8",
+      "username": "student06",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Học Viên 06",
+      "email": "student06@test.com",
+      "role": "user",
+      "createdAt": "2024-01-08T00:00:00.000Z"
+    },
+    {
+      "id": "u9",
+      "username": "student07",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Học Viên 07",
+      "email": "student07@test.com",
+      "role": "user",
+      "createdAt": "2024-01-09T00:00:00.000Z"
+    },
+    {
+      "id": "u10",
+      "username": "student08",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Học Viên 08",
+      "email": "student08@test.com",
+      "role": "user",
+      "createdAt": "2024-01-10T00:00:00.000Z"
+    },
+    {
+      "id": "u11",
+      "username": "student09",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Học Viên 09",
+      "email": "student09@test.com",
+      "role": "user",
+      "createdAt": "2024-01-11T00:00:00.000Z"
+    },
+    {
+      "id": "u12",
+      "username": "student10",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "name": "Học Viên 10",
+      "email": "student10@test.com",
+      "role": "user",
+      "createdAt": "2024-01-12T00:00:00.000Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Laptop Dell XPS 15",
+      "category": "Electronics",
+      "price": 25000000,
+      "quantity": 10,
+      "description": "Laptop cao cấp cho lập trình viên",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p2",
+      "name": "iPhone 15 Pro",
+      "category": "Electronics",
+      "price": 30000000,
+      "quantity": 5,
+      "description": "Điện thoại Apple mới nhất",
+      "createdAt": "2024-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "p3",
+      "name": "Bàn phím cơ Keychron K2",
+      "category": "Accessories",
+      "price": 1800000,
+      "quantity": 20,
+      "description": "Bàn phím cơ wireless",
+      "createdAt": "2024-01-03T00:00:00.000Z"
+    },
+    {
+      "id": "p4",
+      "name": "Chuột Logitech MX Master 3",
+      "category": "Accessories",
+      "price": 2200000,
+      "quantity": 15,
+      "description": "Chuột không dây cao cấp",
+      "createdAt": "2024-01-04T00:00:00.000Z"
+    },
+    {
+      "id": "p5",
+      "name": "Monitor LG 27 inch 4K",
+      "category": "Electronics",
+      "price": 12000000,
+      "quantity": 8,
+      "description": "Màn hình 4K cho đồ hoạ",
+      "createdAt": "2024-01-05T00:00:00.000Z"
+    },
+    {
+      "id": "p6",
+      "name": "Tai nghe Sony WH-1000XM5",
+      "category": "Accessories",
+      "price": 8500000,
+      "quantity": 12,
+      "description": "Tai nghe chống ồn cao cấp",
+      "createdAt": "2024-01-06T00:00:00.000Z"
+    },
+    {
+      "id": "p7",
+      "name": "Webcam Logitech C920",
+      "category": "Accessories",
+      "price": 1500000,
+      "quantity": 25,
+      "description": "Webcam Full HD cho họp online",
+      "createdAt": "2024-01-07T00:00:00.000Z"
+    },
+    {
+      "id": "p8",
+      "name": "MacBook Pro M3",
+      "category": "Electronics",
+      "price": 45000000,
+      "quantity": 3,
+      "description": "Laptop Apple chip M3 mạnh mẽ",
+      "createdAt": "2024-01-08T00:00:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "o1",
+      "userId": "u2",
+      "items": [
+        { "productId": "p1", "productName": "Laptop Dell XPS 15", "quantity": 1, "price": 25000000 },
+        { "productId": "p3", "productName": "Bàn phím cơ Keychron K2", "quantity": 2, "price": 1800000 }
+      ],
+      "total": 28600000,
+      "status": "completed",
+      "createdAt": "2024-01-10T00:00:00.000Z"
+    },
+    {
+      "id": "o2",
+      "userId": "u2",
+      "items": [
+        { "productId": "p2", "productName": "iPhone 15 Pro", "quantity": 1, "price": 30000000 }
+      ],
+      "total": 30000000,
+      "status": "pending",
+      "createdAt": "2024-01-15T00:00:00.000Z"
+    },
+    {
+      "id": "o3",
+      "userId": "u3",
+      "items": [
+        { "productId": "p4", "productName": "Chuột Logitech MX Master 3", "quantity": 1, "price": 2200000 },
+        { "productId": "p6", "productName": "Tai nghe Sony WH-1000XM5", "quantity": 1, "price": 8500000 }
+      ],
+      "total": 10700000,
+      "status": "shipping",
+      "createdAt": "2024-01-16T00:00:00.000Z"
+    },
+    {
+      "id": "o4",
+      "userId": "u4",
+      "items": [
+        { "productId": "p8", "productName": "MacBook Pro M3", "quantity": 1, "price": 45000000 }
+      ],
+      "total": 45000000,
+      "status": "pending",
+      "createdAt": "2024-01-17T00:00:00.000Z"
+    }
+  ]
+}
